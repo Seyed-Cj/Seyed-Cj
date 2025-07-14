@@ -3,11 +3,6 @@
 
 # **🚀 Seyed AmirMohammad Mousavi | سید امیرمحمد موسوی**  
 ### **Full-Stack Developer | Game Server Specialist | توسعه دهنده فول استک و سرورهای گیم**  
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=38BDF8&width=435&lines=Full-Stack+Web+Developer;Game+Server+Development;Minecraft+%26+SA-MP+Expert;توسعه+دهنده+وب+و+سرورهای+گیم" alt="Typing SVG" />
-</div>
-
 ---
 
 ## **🛠️ Technical Stack | مهارت‌های فنی**  
