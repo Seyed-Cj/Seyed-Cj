@@ -2,14 +2,13 @@
 <br>
 
 # **🚀 Seyed AmirMohammad Mousavi | سید امیرمحمد موسوی**  
-### **Full-Stack Developer | Game Server Specialist | توسعه دهنده فول استک و سرورهای گیم**  
----
+### **Full-Stack Developer | Game Server Specialist**  
 
 ## **🛠️ Technical Stack | مهارت‌های فنی**  
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,python,js,ts,nodejs,express,react,vite,tailwind,bootstrap,mongodb,mysql,postgresql,git,vscode,postman&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,js,ts,nodejs,express,react,vite,tailwind,bootstrap,mongodb,mysql,postgresql,git,vscode,postman,npm&theme=dark" />
   </a>
 </div>
 
@@ -26,7 +25,7 @@
 
 <div align="center">
   <a href="mailto:SeyedxCj@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
+    <img src="https://commons.wikimedia.org/wiki/File:Telegram_2019_Logo.svg" />
   </a>
   <a href="https://t.me/seyedcj_sc">
     <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
