@@ -9,21 +9,9 @@
 
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,js,nodejs,express,react,vite,tailwind,mongodb,mysql,postgresql,git,vscode,postman,bootstrap&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=html,css,python,js,ts,nodejs,express,react,vite,tailwind,bootstrap,mongodb,mysql,postgresql,git,vscode,postman&theme=dark" />
   </a>
 </div>
-
----
-
-## **🎮 Game Development | توسعه بازی**  
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Minecraft-62B47A?style=for-the-badge&logo=minecraft&logoColor=white" />
-  <img src="https://img.shields.io/badge/SA--MP-FFA500?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=unity,unreal&theme=dark" />
-</div>
-
----
 
 ## **📊 GitHub Stats | آمار گیت‌هاب**  
 
@@ -37,19 +25,16 @@
 ## **📬 Contact Me | ارتباط با من**  
 
 <div align="center">
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:SeyedxCj@gmail.com">
     <img src="https://skillicons.dev/icons?i=gmail&theme=dark" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" />
-  </a>
-  <a href="https://t.me/yourusername">
+  <a href="https://t.me/seyedcj_sc">
     <img src="https://skillicons.dev/icons?i=telegram&theme=dark" />
   </a>
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AmirMousavi&label=Profile%20views&color=0e75b6&style=flat" alt="AmirMousavi" />
+  <img src="https://komarev.com/ghpvc/?username=Seyed-Cj&label=Profile%20views&color=0e75b6&style=flat" alt="SeyedCj" />
 </p>
 
 ---
