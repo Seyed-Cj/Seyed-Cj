@@ -1,10 +1,9 @@
 **<h1>👋 Hi there! I'm SeyedCj</h1>**
 <br>
+# **Seyed AmirMohammad Mousavi**  
+### **Full-Stack Web Developer | Game Server Specialist**  
 
-# **🚀 Seyed AmirMohammad Mousavi | سید امیرمحمد موسوی**  
-### **Full-Stack Developer | Game Server Specialist**  
-
-## **🛠️ Technical Stack | مهارت‌های فنی**  
+## **🛠️ Technical Stack**  
 
 <div align="center">
   <a href="#">
@@ -12,7 +11,7 @@
   </a>
 </div>
 
-## **📊 GitHub Stats | آمار گیت‌هاب**  
+## **📊 GitHub Stats**  
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seyed-Cj&show_icons=true&theme=dark&hide_border=true" />
@@ -21,7 +20,7 @@
 
 ---
 
-## **📬 Contact Me | ارتباط با من**  
+## **📬 Contact Me**  
 
 <div align="center">
   <a href="mailto:SeyedxCj@gmail.com">
