@@ -1,7 +1,7 @@
 # **Seyed AmirMohammad Mousavi**  
 ### **Full-Stack Web Developer | Game Server Specialist**  
 
-## **🛠️ Technical Stack**  
+## **My Skills**  
 
 <div align="center">
   <a href="#">
@@ -21,6 +21,6 @@
 ## **📬 Contact Me**  
 
 <div align="center">
-  [![Gmail](https://img.shields.io/badge/Gmail-your.email@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:seyedxcj@gmail.com)
-  [![Telegram](https://img.shields.io/badge/Telegram-@YourID-1CA9C9?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/seyedcjsc)
+  🪪 Email : SeyedXCj@gmail.com
+  📱 Telegram : <a href="https://t.me/seyedcj_sc">@SeyedCj_Sc</a>
 </div>
