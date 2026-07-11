@@ -3,31 +3,25 @@
 
 ## 💻 Tech Stack
 
-### Frontend
+### - Frontend
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,next&theme=dark" />
 </div>
 
----
-
-### Backend
+### - Backend
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,nest&theme=dark" />
 </div>
 
----
-
-### Database & ORM
+### - Database & ORM
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,drizzle&theme=dark" />
 </div>
 
----
-
-### DevOps & Tools
+### - DevOps & Tools
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=git,docker,linux,postman&theme=dark" />
