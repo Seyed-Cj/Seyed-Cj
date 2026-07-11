@@ -16,7 +16,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seyed-Cj&layout=compact&theme=dark&hide_border=true" />
 </div>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Seyed-Cj&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Seyed-Cj&theme=dark&hide_border=true&border_radius=35&card_width=500&card_height=200)](https://git.io/streak-stats)
 
 ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seyed-Cj&theme=github-compact&hide_border=true&area=true)
 
