@@ -14,7 +14,7 @@
 ### - Backend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nest&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest,python,fastapi&theme=dark" />
 </div>
 
 ---
@@ -22,7 +22,7 @@
 ### - Database & ORM
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,drizzle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma&theme=dark" />
 </div>
 
 ---
@@ -30,7 +30,7 @@
 ### - DevOps & Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman,redis&theme=dark" />
 </div>
 
 ## **📊 GitHub Stats**  
