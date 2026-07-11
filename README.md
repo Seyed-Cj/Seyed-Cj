@@ -19,18 +19,10 @@
 
 ---
 
-### Database
+### Database & ORM
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
-</div>
-
----
-
-### ORM
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=prisma,drizzle&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql,prisma,drizzle&theme=dark" />
 </div>
 
 ---
