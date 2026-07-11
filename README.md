@@ -1,12 +1,44 @@
 # **Seyed AmirMohammad Mousavi**  
 ### **Full-Stack Web Developer | Game Server Specialist**  
 
-## **My Skills**  
+## 💻 Tech Stack
+
+### Frontend
 
 <div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,python,js,ts,nodejs,express,nest,react,vite,next,tailwind,bootstrap,mongodb,mysql,postgresql,git,postman,linux,docker&theme=dark" />
-  </a>
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,next&theme=dark" />
+</div>
+
+---
+
+### Backend
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nest&theme=dark" />
+</div>
+
+---
+
+### Database
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=mongodb,postgresql,mysql&theme=dark" />
+</div>
+
+---
+
+### ORM
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=prisma,drizzle&theme=dark" />
+</div>
+
+---
+
+### DevOps & Tools
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,docker,linux,postman&theme=dark" />
 </div>
 
 ## **📊 GitHub Stats**  
