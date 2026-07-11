@@ -17,7 +17,8 @@
 </div>
 <div align="center">
   [![GitHub Streak](https://streak-stats.demolab.com/?user=Seyed-Cj&theme=dark)](https://git.io/streak-stats)
-
+</div>
+<div>
   ![Contribution Graph](https://github-readme-activity-graph.vercel.app/graph?username=Seyed-Cj&theme=github-compact&hide_border=true&area=true)
 </div>
 
