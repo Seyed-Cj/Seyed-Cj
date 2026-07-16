@@ -6,7 +6,7 @@
 ### - Frontend
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,tailwind,bootstrap,js,ts,react,vite,next&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,js,ts,react,vite,next&theme=dark" />
 </div>
 
 ---
