@@ -36,8 +36,11 @@
 ## **📊 GitHub Stats**  
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Seyed-Cj&show_icons=true&theme=dark&hide_border=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Seyed-Cj&layout=compact&theme=dark&hide_border=true" />
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api?username=Seyed-Cj&show_icons=true&theme=github_dark&hide_border=true&bg_color=0D1117" alt="GitHub statistics">
+
+  <img height="165" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Seyed-Cj&layout=compact&theme=github_dark&hide_border=true&bg_color=0D1117&hide=html,css,scss" alt="Most used languages">
+
 </div>
 
 <div align="center">
